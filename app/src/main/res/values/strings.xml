@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestFeatures</string>
+
+    <!--    ACT PERMISSION RECORD   -->
+    <string name="btn_start">iniciar</string>
+    <string name="p_one">1</string>
+    <string name="p_two">2</string>
+    <string name="p_three">3</string>
+    <string name="p_four">4</string>
+    <string name="p_five">5</string>
+    <string name="p_one_description">Ir a permisos</string>
+    <string name="p_two_description_mic">Desactivar la opción "Quitar los permisos si la app está en desuso"</string>
+    <string name="p_three_description_mic">Ir a "Micrófono"</string>
+    <string name="p_four_description_mic">Seleccionar "Permitir"</string>
+    <string name="p_five_description">Regresar a la app</string>
+    <string name="mic_permission_title">Permitir grabación de audio</string>
+    <string name="text_aviso_mic">Es necesario grabar toda la gestión de la cuenta para su seguridad, futuras reclamaciones y archivo.</string>
+</resources>
