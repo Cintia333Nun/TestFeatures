@@ -1,0 +1,39 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/drawable/back_enter.xml" value="0.2345" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/drawable/button_corners_reload.xml" value="0.2345" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/drawable/circle_line_transparent.xml" value="0.2345" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2185" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/drawable/ic_notifications_active.xml" value="0.121" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/drawable/ic_place.xml" value="0.2185" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/activity_audio_record_test.xml" value="0.10989583333333333" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/activity_biometric_auth.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/activity_recorder.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/activity_remminders.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/activity_rest_services.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/activity_secret.xml" value="0.2359375" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/activity_tab_recycler.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/fragment_clothe.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/fragment_dress.xml" value="0.2359375" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/fragment_error.xml" value="0.2359375" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/fragment_shirt.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/fragment_tab.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/fragment_tshirt.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/interface_permission_record_audio.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/item_books.xml" value="0.24895833333333334" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/item_clothe.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/layout_remminder.xml" value="0.25" />
+        <entry key="..\:/Documentos/ProyectosAndroid/TestFeatures/app/src/main/res/layout/layout_remminder_small.xml" value="0.10989583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

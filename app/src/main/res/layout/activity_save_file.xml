@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/margin_10"
+    tools:context=".save_file.SaveFileActivity">
+
+    <LinearLayout
+        android:id="@+id/container_buttons_file"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/button_pick_file"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:text="@string/button_pick_file"
+            android:textSize="@dimen/text_18"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:background="@drawable/shape_rounded"
+            android:padding="@dimen/margin_8"
+            app:drawableBottomCompat="@drawable/ic_insert_file" />
+
+        <TextView
+            android:id="@+id/button_show_file"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:text="@string/button_show_file"
+            android:textSize="@dimen/text_18"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:background="@drawable/shape_rounded"
+            android:padding="@dimen/margin_8"
+            app:drawableBottomCompat="@drawable/ic_file_open" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/container_files_storage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/container_buttons_file">
+
+        <ImageView
+            android:id="@+id/button_save_file"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/ic_check"
+            android:backgroundTint="@color/colorAccent" />
+
+        <ImageView
+            android:id="@+id/button_cancel_file"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/ic_baseline_cancel_24"
+            android:backgroundTint="@color/colorAccent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

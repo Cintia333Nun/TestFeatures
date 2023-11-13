@@ -1,0 +1,104 @@
+<resources>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="app_name">TestFeatures</string>
+
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+
+    <!--    ACT PERMISSION RECORD   -->
+    <string name="btn_start">iniciar</string>
+    <string name="p_one">1</string>
+    <string name="p_two">2</string>
+    <string name="p_three">3</string>
+    <string name="p_four">4</string>
+    <string name="p_five">5</string>
+    <string name="p_one_description">Ir a permisos</string>
+    <string name="p_two_description_mic">Desactivar la opción "Quitar los permisos si la app está en desuso"</string>
+    <string name="p_three_description_mic">Ir a "Micrófono"</string>
+    <string name="p_four_description_mic">Seleccionar "Permitir"</string>
+    <string name="p_five_description">Regresar a la app</string>
+    <string name="mic_permission_title">Permitir grabación de audio</string>
+    <string name="text_aviso_mic">Es necesario grabar toda la gestión de la cuenta para su seguridad, futuras reclamaciones y archivo.</string>
+
+    <!-- TAB CLOTHES -->
+    <string name="clothes_title">ROPA</string>
+    <string name="text_error">Error</string>
+
+    <!--    ACT BROADCAST RECEIVER   -->
+    <string name="airplane_mode">Detectar cambios en el estado del modo avión.</string>
+
+    <!--    ACT BROADCAST RECEIVER 2  -->
+    <string name="broadcast_receiver2_title">Broadcast Receiver</string>
+    <string name="broadcast_receiver_battery_label">Porcentaje de batería:</string>
+    <string name="broadcast_receiver_wifi_label">WiFi</string>
+    <string name="broadcast_receiver_airplane_label">Modo Avión</string>
+    <string name="broadcast_receiver_bluetooth_label">Bluetooth</string>
+
+    <!--    WIDGET  -->
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+    <!--  RETROFIT  -->
+    <string name="book_search_title">Buscador de libros</string>
+    <string name="key_word">Palabra clave</string>
+    <string name="author">Autor</string>
+    <string name="button_search_books">Buscar</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_basic_compose">BasicComposeActivity</string>
+
+    <!--TRANSITIONS EXAMPLE -->
+    <string name="button_transition_anim"> Transition Anim Example </string>
+    <string name="second_activity_transition">SECOND ACTIVITY TRANSITION</string>
+
+    <string name="intro_message">
+        <![CDATA[
+
+
+            Demonstrates how to the use Activity scene transitions when transitions
+            from one Activity to another. Uses a combination of changeImageTransform and
+            changeBounds to nicely transition a grid of images to an Activity with a large image
+            and detail text.
+
+
+        ]]>
+    </string>
+    <string name="bacon_ipsum">
+        Bacon ipsum dolor sit amet venison shankle pork chop meatball tri-tip beef ribs turducken.
+        Strip steak ball tip boudin shank, turducken leberkas pork chop beef ribs ham hock sausage
+        frankfurter prosciutto doner ham. Bacon landjaeger ball tip, andouille chuck beef ribs jowl
+        kevin tri-tip turkey biltong frankfurter sausage. Boudin pork belly meatloaf chicken cow
+        tri-tip kielbasa shoulder. Pork loin pig boudin hamburger pastrami short ribs. Sirloin
+        tongue pork loin chicken spare ribs bresaola pastrami.\n\n
+        Tenderloin turducken pork chop, pork belly beef ribs brisket ham. Turducken landjaeger short
+        loin capicola pancetta pork chop strip steak rump meatloaf brisket kevin doner short ribs
+        salami. Beef prosciutto flank leberkas landjaeger swine. Fatback prosciutto sausage, jerky
+        tail tongue hamburger jowl biltong shank pork belly swine filet mignon chicken ground round.
+        Pork chop porchetta ground round tri-tip tail t-bone.\n\n
+        Landjaeger rump bacon salami sausage pork loin pig brisket strip steak corned beef. Biltong
+        sirloin meatloaf ribeye, bresaola cow chicken t-bone frankfurter andouille strip steak jerky
+        capicola. Ribeye porchetta strip steak boudin. Kielbasa cow brisket pastrami ball tip
+        tenderloin bresaola ham. Biltong andouille chuck ham hock jerky beef chicken, flank shankle
+        ball tip venison porchetta kevin fatback kielbasa. Boudin tongue ground round, turkey pork
+        belly salami corned beef pork tri-tip meatloaf sausage andouille strip steak pig. Spare ribs
+        beef meatloaf rump sausage doner frankfurter.\n\n
+        Fatback porchetta pork loin meatball, turducken pork chop drumstick boudin. Kevin tri-tip
+        ground round corned beef, ribeye swine filet mignon salami pork spare ribs pork chop
+        brisket. Filet mignon shankle t-bone bacon. Turducken capicola turkey porchetta kielbasa
+        shank pork loin jerky venison tenderloin boudin ham hock ground round.</string>
+    <string name="image_header">%1$s by %2$s</string>
+    <string name="title_activity_update_manager">UpdateManagerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="button_pick_file">Selecionar archivo</string>
+    <string name="button_show_file">Ver archivo</string>
+    <string name="test_espresso">Prueba</string>
+    <string name="test_espresso_finish">Prueba realizada</string>
+
+</resources>
